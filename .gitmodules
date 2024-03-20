@@ -7,3 +7,6 @@
 [submodule "Throne_Wallet_Backend"]
 	path = Throne_Wallet_Backend
 	url = https://github.com/manasvi-29/throne-wallet-backend.git
+[submodule "Throne_Wallet_Frontend"]
+	path = Throne_Wallet_Frontend
+	url = .\\Throne_Wallet_Frontend\\
