@@ -10,3 +10,6 @@
 [submodule "throne-wallet-frontend"]
 	path = throne-wallet-frontend
 	url = https://github.com/Venkatesh2877/Throne_Wallet_Frontend.git
+[submodule "Throne_Marketplace"]
+	path = Throne_Marketplace
+	url = https://github.com/Venkatesh2877/Throne_Marketplace.git
